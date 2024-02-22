@@ -8,10 +8,10 @@ sites=[
         "sub":"https://v.haoyun.nl/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"giaoyun",
-        "url":"https://ww1.giaoyun.xyz/",
-        "reg_url":"https://ww1.giaoyun.xyz/api/v1/passport/auth/register",
-        "sub":"https://ww1.giaoyun.xyz/api/v1/client/subscribe?token={token}"
+        "name":"feiniaoyun",
+        "url":"https://www.feiniaoyun.top/",
+        "reg_url":"https://www.feiniaoyun.top/api/v1/passport/auth/register",
+        "sub":"https://www.feiniaoyun.top/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"ckcloud",
