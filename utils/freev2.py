@@ -32,6 +32,12 @@ sites=[
         "sub":"https://tizioo3.com/api/v1/client/subscribe?token={token}"
     },
     {
+        "name":"fastfly",
+        "url":"https://fastestcloud.xyz/",
+        "reg_url":"https://fastestcloud.xyz/api/v1/passport/auth/register",
+        "sub":"https://fastestcloud.xyz/api/v1/client/subscribe?token={token}"
+    },
+    {
         "name":"coo",
         "url":"https://web.coo.wiki/",
         "reg_url":"https://web.coo.wiki/api/v1/passport/auth/register",
