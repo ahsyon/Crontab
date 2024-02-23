@@ -9,9 +9,9 @@ sites=[
     },
     {
         "name":"feiniaoyun",
-        "url":"https://www.feiniaoyun.top/",
-        "reg_url":"https://www.feiniaoyun.top/api/v1/passport/auth/register",
-        "sub":"https://www.feiniaoyun.top/api/v1/client/subscribe?token={token}"
+        "url":"https://www.feiniaoyun.xyz/",
+        "reg_url":"https://www.feiniaoyun.xyz/api/v1/passport/auth/register",
+        "sub":"https://www.feiniaoyun.xyz/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"ckcloud",
